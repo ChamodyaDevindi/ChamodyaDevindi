@@ -16,6 +16,9 @@ I'm Chamodya, an IT undergraduate passionate about web development.I love buildi
 - CSS
 - PHP
 - C
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,mysql,php,c,git,github,vscode,intellij,postman,figma,spring,docker" />
+</p>
 
 ## 🛠 Technologies
 
