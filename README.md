@@ -40,11 +40,5 @@ I'm Chamodya, an IT undergraduate passionate about web development.I love buildi
 </p>
 
 ## 📫 Contact 
-<p align="left">
-  <a href="mailto:chamodyadevindi2004@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/chamodya-devindi/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+-Email:chamodyadevindi2004@gmail.com
+-Linkedin:www.linkedin.com/in/chamodya-devindi
