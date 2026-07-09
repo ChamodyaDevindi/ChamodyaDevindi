@@ -3,7 +3,7 @@ I'm Chamodya, an IT undergraduate passionate about web development.I love buildi
 
 ## 🎓 About Me
 
-- ICT Undergraduate
+- IT Undergraduate
 - MERN Stack Developer
 - Java Developer
 - Passionate about Web Development
