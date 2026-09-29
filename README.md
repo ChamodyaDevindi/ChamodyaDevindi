@@ -8,10 +8,11 @@ I'm passionate about building modern web applications and exploring new technolo
 
 ## 🎓 About Me
 
-- IT Undergraduate
-- MERN Stack Developer
-- Java Developer
-- Passionate about Web Development
+- 🎓 IT Undergraduate
+- 💻 Interested in Full-Stack Development
+- ☕ Working with Java and Spring
+- 🌐 Building web applications using modern technologies
+- 🌱 Continuously learning and improving my development skills
 
 ## 💻 Languages
 
