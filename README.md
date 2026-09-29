@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Chamodya%20Devindi&fontSize=40&fontAlignY=35&desc=IT%20Undergraduate%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=55" width="100%"/>
+
 # Hi there, I'm Chamodya Devindi 👋
 
 🎓 IT Undergraduate | 💻 Aspiring Full-Stack Developer
