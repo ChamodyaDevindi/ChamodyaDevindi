@@ -6,6 +6,10 @@
 
 I'm passionate about building modern web applications and exploring new technologies. I enjoy turning ideas into practical software solutions and continuously improving my development skills.
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=IT+Undergraduate;Aspiring+Full-Stack+Developer;Java+%26+JavaScript+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
+
 ## 🎓 About Me
 
 - 🎓 IT Undergraduate
