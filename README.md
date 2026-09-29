@@ -18,19 +18,10 @@ I'm passionate about building modern web applications and exploring new technolo
 - 🌐 Building web applications using modern technologies
 - 🌱 Continuously learning and improving my development skills
 
+
 ## 💻 Languages
 
-- Java
-- JavaScript
-- HTML
-- CSS
-- PHP
-- C
-- C++
-  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,php,c,c++" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,php,c,cpp" />
 
 ## 🛠 Technologies
 
