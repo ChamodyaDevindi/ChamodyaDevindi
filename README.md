@@ -36,6 +36,16 @@ I'm passionate about building modern web applications and exploring new technolo
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,spring,bootstrap,tailwind,git,github" />
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChamodyaDevindi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="Chamodya's GitHub Stats" />
+</p>
+
+### 💻 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodyaDevindi&layout=compact&hide_border=true&theme=tokyonight" alt="Chamodya's Top Languages" />
+</p>
+
 ## 📫 Contact 
 -Email:chamodyadevindi2004@gmail.com
 -Linkedin:www.linkedin.com/in/chamodya-devindi
