@@ -1,5 +1,8 @@
-# Hi there👋 
-I'm Chamodya, an IT undergraduate passionate about web development.I love building modern web applications and exploring new technologies.
+# Hi there, I'm Chamodya Devindi 👋
+
+🎓 IT Undergraduate | 💻 Aspiring Full-Stack Developer
+
+I'm passionate about building modern web applications and exploring new technologies. I enjoy turning ideas into practical software solutions and continuously improving my development skills.
 
 ## 🎓 About Me
 
