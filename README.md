@@ -30,20 +30,7 @@ I'm passionate about building modern web applications and exploring new technolo
 
 ## 🛠 Technologies
 
-- React
-- Node.js
-- Express.js
-- MongoDB
-- MySQL
-- Spring
-- Bootstrap
-- Tailwind
-- Git
-- GitHub
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,spring,bootstrap,tailwind,git,github" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,spring,bootstrap,tailwind,git,github" />
 
 ## 📫 Contact 
 -Email:chamodyadevindi2004@gmail.com
