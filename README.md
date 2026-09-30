@@ -27,6 +27,12 @@ I'm passionate about building modern web applications and exploring new technolo
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,spring,bootstrap,tailwind,git,github" />
 
+### 💻 Top Languages
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/repos-per-language.svg" height="180" alt="Top Languages" />
+</p>
+
 ## 📫 Contact 
 -Email:chamodyadevindi2004@gmail.com
 -Linkedin:www.linkedin.com/in/chamodya-devindi
