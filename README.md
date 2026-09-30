@@ -18,6 +18,15 @@ I'm passionate about building modern web applications and exploring new technolo
 - 🌐 Building web applications using modern technologies
 - 🌱 Continuously learning and improving my development skills
 
+## 💻 Most Used Languages
+
+<p align="center">
+  <img 
+    src="https://YOUR-OWN-STATS-URL.vercel.app/api/top-langs/?username=ChamodyaDevindi&layout=normal&langs_count=6&theme=tokyonight&hide_border=true&stats_format=percentages"
+    alt="Most Used Languages"
+  />
+</p>
+
 
 ## 💻 Languages
 
