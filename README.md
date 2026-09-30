@@ -38,6 +38,8 @@ I'm passionate about building modern web applications and exploring new technolo
   <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" height="180" alt="Profile Details" />
 </p>
 
-## 📫 Contact 
--Email:chamodyadevindi2004@gmail.com
--Linkedin:www.linkedin.com/in/chamodya-devindi
+## 📫 Connect With Me
+
+📧 Email: [chamodyadevindi2004@gmail.com](mailto:chamodyadevindi2004@gmail.com)
+
+💼 LinkedIn: [Chamodya Devindi](https://www.linkedin.com/in/chamodya-devindi/)
