@@ -30,7 +30,7 @@ I'm passionate about building modern web applications and exploring new technolo
 ### 💻 Top Languages
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/repos-per-language.svg" height="180" alt="Top Languages" />
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="180" alt="Top Languages" />
 </p>
 
 ## 📫 Contact 
